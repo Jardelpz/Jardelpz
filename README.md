@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 #### Cloud 
-<img title="Aws" height="32" src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025.png" alt="aws"/>
+<img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 s3, redis, sqs, sns, ec2
 
 
