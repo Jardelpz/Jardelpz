@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- Hi, I'm Jardel Pereira Zermiani, Backend developer from Brazil. 👨🏻‍💻
+### Hi, I'm Jardel Pereira Zermiani, Backend developer from Brazil. 👨🏻‍💻
 
 ![Badge](https://github.com/Jardelpz?style=for-the-badge&logo=ghost) 
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 # Stack
 
-### Application and Data
+#### Application and Data
 python, java, postgres, mysql
 
 
@@ -34,10 +34,10 @@ python, java, postgres, mysql
 ![s3](https://user-images.githubusercontent.com/32064166/103538094-59851980-4e74-11eb-9412-f65905b0eacc.png), redis, sqs, sns, ec2
 
 
-### DevOps
+#### DevOps
 k8s, jenkins, docker
 
-### Tools
+#### Tools
 pycharm, postman, dbeaver, bitbucket, github, jira
 
 
