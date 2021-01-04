@@ -32,16 +32,15 @@ Here are some ideas to get you started:
 # Stack
 
 **Application and Data**
-<p>
+
 <img title="Python" height="32" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python"/>
 <img title="PostgreSQL" height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
-</p>
+
 :python:, :java:, :postgres:, :mysql:
 
 
 **Cloud** 
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-
 <img title="SQS" height="32" src="https://iconape.com/wp-content/files/wb/370606/svg/aws-sqs-logo-icon-png-svg.png" alt="sqs"/>
 <img title="SNS" height="32" src="https://iconape.com/wp-content/files/fv/370605/svg/aws-sns-logo-icon-png-svg.png" alt="sns"/>
 <img title="S3" height="32" src="https://iconape.com/wp-content/files/dt/352387/png/aws-s3-simple-storage-service-logo.png" alt="s3"/>
@@ -49,19 +48,17 @@ s3, redis, sqs, sns, ec2
 
 
 **DevOps**
-<p>
-  <img title="Docker" height="32" src="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" alt="docker"/>
-  <img title="Jenkins" height="32" src="https://cdn.iconscout.com/icon/free/png-256/jenkins-1-282385.png" alt="jenkins"/>
-</p>
+
+<img title="Docker" height="32" src="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" alt="docker"/>
+<img title="Jenkins" height="32" src="https://cdn.iconscout.com/icon/free/png-256/jenkins-1-282385.png" alt="jenkins"/>
+
 k8s, jenkins, docker
 
 **Tools**
-<p>
 <img title="Postman" height="32" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="postman"/>
 <img title="Jira" height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira"/></code>
 <img title="Confluence" height="32" src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" alt="confluence"/></code>
 <img title="Bitbucket" height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="bitbucket"/>
-</p>
 pycharm, postman, dbeaver, bitbucket, github, jira
 
 
