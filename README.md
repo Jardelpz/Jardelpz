@@ -35,9 +35,9 @@ Here are some ideas to get you started:
 **Application and Data**
 <p>
  <img title="Python" height="32" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python"/>
+ <img title="java" height="32" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="java"/>
  <img title="PostgreSQL" height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
  <img title="MySql" height="32" src="https://img.icons8.com/metro/26/000000/mysql.png" alt="mysql"/>
- <img title="java" height="32" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="java"/>
  <img title="html" height="32" src="https://img.icons8.com/nolan/64/html-5.png" alt="html"/>
  <img title="css" height="32" src="https://img.icons8.com/nolan/64/css-filetype.png" alt="css"/>
  <img title="js" height="32" src="https://img.icons8.com/nolan/64/javascript.png" alt="js"/>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 **Cloud AWS** 
 <p>
- <img title="redis" src="https://img.icons8.com/color/48/000000/redis.png" alt="redis"/>
+ <img title="redis" height="32" src="https://img.icons8.com/color/48/000000/redis.png" alt="redis"/>
  <img title="SQS" height="32" src="https://iconape.com/wp-content/files/wb/370606/svg/aws-sqs-logo-icon-png-svg.png" alt="sqs"/>
  <img title="SNS" height="32" src="https://iconape.com/wp-content/files/fv/370605/svg/aws-sns-logo-icon-png-svg.png" alt="sns"/>
  <img title="S3" height="32" src="https://iconape.com/wp-content/files/dt/352387/png/aws-s3-simple-storage-service-logo.png" alt="s3"/>
