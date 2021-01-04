@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 <img title="SQS" height="32" src="https://iconape.com/wp-content/files/wb/370606/svg/aws-sqs-logo-icon-png-svg.png" alt="sqs"/>
 <img title="SNS" height="32" src="https://iconape.com/wp-content/files/fv/370605/svg/aws-sns-logo-icon-png-svg.png" alt="sns"/>
-<img title="S3" height="32" src="https://iconape.com/wp-content/files/dt/352387/png/aws-s3-simple-storage-service-logo.png" alt="s3"/>
+<img title="S3" height="32" src="<img src="https://img.icons8.com/ios/50/000000/amazon-s3.png" alt="s3"/>
 s3, redis, sqs, sns, ec2
 </p>
 
