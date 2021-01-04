@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ntferr)](https://github.com/Jardelpz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ntfm/)](https://www.linkedin.com/in/jardel-pereira-zermiani-421b1916a/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jardel123zermiani@gmail.com)]
-(mailto:jardel123zermiani@gmail.com)
+(mailto:jardel123zermiani@gmail.com)mailto:jardel123zermiani@gmail.com)
 
 
 - 🔭 I’m currently working on Web apps and Microservices
