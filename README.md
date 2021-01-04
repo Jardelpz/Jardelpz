@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 
 ### Hi, I'm Jardel Pereira Zermiani, Backend developer from Brazil. 👨🏻‍💻
 
-![Badge](https://github.com/Jardelpz?style=for-the-badge&logo=ghost) 
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/ntferr)](https://github.com/Jardelpz)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ntfm/)](https://www.linkedin.com/in/jardel-pereira-zermiani-421b1916a/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:ntfm95@gmail.com)](mailto:ntfm95@gmail.com)mailto:jardel123zermiani@gmail.com)
+
 
 - 🔭 I’m currently working on Web apps and Microservices
 - 🌱 I’m currently studying Computer Science
@@ -29,10 +32,16 @@ Here are some ideas to get you started:
 # Stack
 
 #### Application and Data
+<p>
+<img title="Python" height="32" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python"/>
+<img title="PostgreSQL" height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
+</p>
 :python:, :java:, :postgres:, :mysql:
 
 
-#### Cloud
+#### Cloud 
+<img title="Python" height="32" src=![aws](https://user-images.githubusercontent.com/32064166/103539419-cb5e6280-4e76-11eb-8094-c9443caf63a6.png) />
+
 ![s3](https://user-images.githubusercontent.com/32064166/103538094-59851980-4e74-11eb-9412-f65905b0eacc.png), redis, sqs, sns, ec2
 
 
