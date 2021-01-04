@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 
 #### Cloud 
-<img title="Python" height="32" src=![aws](https://user-images.githubusercontent.com/32064166/103539419-cb5e6280-4e76-11eb-8094-c9443caf63a6.png) />
+<img title="Python" height="32" src="![aws](https://user-images.githubusercontent.com/32064166/103539419-cb5e6280-4e76-11eb-8094-c9443caf63a6.png)" />
 
 ![s3](https://user-images.githubusercontent.com/32064166/103538094-59851980-4e74-11eb-9412-f65905b0eacc.png), redis, sqs, sns, ec2
 
