@@ -43,6 +43,13 @@ Here are some ideas to get you started:
  <img title="js" height="32" src="https://img.icons8.com/nolan/64/javascript.png" alt="js"/>
 </p>
 
+**Frameworks**
+<p>
+ <img title="flask" height="32" src="https://img.icons8.com/pastel-glyph/64/000000/chili-pepper--v2.png" alt="flask"/>
+ <img title="react" height="32" src="https://img.icons8.com/plasticine/100/000000/react.png" alt="react"/>
+ <img title="angular" height="32" src="https://img.icons8.com/color/48/000000/angularjs.png" alt="angular"/>
+</p>
+
 **Cloud AWS** 
 <p>
  <img title="redis" height="32" src="https://img.icons8.com/color/48/000000/redis.png" alt="redis"/>
