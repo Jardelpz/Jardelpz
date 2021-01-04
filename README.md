@@ -35,16 +35,19 @@ Here are some ideas to get you started:
 
 <img title="Python" height="32" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python"/>
 <img title="PostgreSQL" height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
+<img title="MySql" height="32" src="https://img.icons8.com/metro/26/000000/mysql.png" alt="mysql"/>
+<img title="java" height="32" src="https://img.icons8.com/offices/30/000000/java-eclipse.png" alt="java"/>
+<img title="html" height="32" src="https://img.icons8.com/nolan/64/html-5.png" alt="html"/>
+<img title="css" height="32" src="https://img.icons8.com/nolan/64/css-filetype.png" alt="css"/>
+<img title="js" height="32" src="https://img.icons8.com/nolan/64/javascript.png" alt="js"/>
 
-:python:, :java:, :postgres:, :mysql:
-
-
-**Cloud** 
+**Cloud** <img height="32"src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 <p>
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 <img title="SQS" height="32" src="https://iconape.com/wp-content/files/wb/370606/svg/aws-sqs-logo-icon-png-svg.png" alt="sqs"/>
 <img title="SNS" height="32" src="https://iconape.com/wp-content/files/fv/370605/svg/aws-sns-logo-icon-png-svg.png" alt="sns"/>
 <img title="S3" height="32" src="https://iconape.com/wp-content/files/dt/352387/png/aws-s3-simple-storage-service-logo.png" alt="s3"/>
+<img title="redis" src="https://img.icons8.com/color/48/000000/redis.png" alt="redis"/>
 s3, redis, sqs, sns, ec2
 </p>
 
@@ -53,8 +56,6 @@ s3, redis, sqs, sns, ec2
 <img title="Docker" height="32" src="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" alt="docker"/>
 <img  title="K8s" height="32" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernets"/>
 <img title="Jenkins" height="32" src="https://cdn.iconscout.com/icon/free/png-256/jenkins-1-282385.png" alt="jenkins"/>
-
-k8s, jenkins, docker
 </p>
 
 **Tools**
