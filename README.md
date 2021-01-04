@@ -1,5 +1,7 @@
 <h1 align="center"> Hi there, I'm Jardel 👋 </h1>
 
+
+
 <!--
 **Jardelpz/Jardelpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +29,7 @@ Here are some ideas to get you started:
 # Stack
 
 #### Application and Data
-python, java, postgres, mysql
+:python:, :java:, :postgres:, :mysql:
 
 
 #### Cloud
