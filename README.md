@@ -51,6 +51,7 @@ s3, redis, sqs, sns, ec2
 **DevOps**
 <p>
 <img title="Docker" height="32" src="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" alt="docker"/>
+<img  title="K8s" height="32" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernets"/>
 <img title="Jenkins" height="32" src="https://cdn.iconscout.com/icon/free/png-256/jenkins-1-282385.png" alt="jenkins"/>
 
 k8s, jenkins, docker
@@ -64,7 +65,6 @@ k8s, jenkins, docker
 <img title="Jira" height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira"/></code>
 <img title="Confluence" height="32" src="https://seeklogo.com/images/C/confluence-logo-D9B07137C2-seeklogo.com.png" alt="confluence"/></code>
 <img title="Bitbucket" height="32" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/44_Bitbucket_logo_logos-512.png" alt="bitbucket"/>
-<img  title="K8s" height="32" src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="kubernets"/>
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jardelpz)](https://github.com/anuraghazra/github-readme-stats)
