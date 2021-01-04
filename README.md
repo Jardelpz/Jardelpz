@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 # Stack
 
-#### Application and Data
+**Application and Data**
 <p>
 <img title="Python" height="32" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python"/>
 <img title="PostgreSQL" height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 :python:, :java:, :postgres:, :mysql:
 
 
-#### Cloud 
+**Cloud** 
 <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 
 <img title="SQS" height="32" src="https://iconape.com/wp-content/files/wb/370606/svg/aws-sqs-logo-icon-png-svg.png" alt="sqs"/>
@@ -48,14 +48,14 @@ Here are some ideas to get you started:
 s3, redis, sqs, sns, ec2
 
 
-#### DevOps
+**DevOps**
 <p>
   <img title="Docker" height="32" src="https://cdn.iconscout.com/icon/free/png-256/docker-12-1175229.png" alt="docker"/>
   <img title="Jenkins" height="32" src="https://cdn.iconscout.com/icon/free/png-256/jenkins-1-282385.png" alt="jenkins"/>
 </p>
 k8s, jenkins, docker
 
-#### Tools
+**Tools**
 <p>
 <img title="Postman" height="32" src="https://sdtimes.com/wp-content/uploads/2018/08/logo-glyph.png" alt="postman"/>
 <img title="Jira" height="32" src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira"/></code>
