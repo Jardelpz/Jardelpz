@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 **Application and Data**
 <p>
  <img title="Python" height="32" src="https://cdn.iconscout.com/icon/free/png-256/python-2-226051.png" alt="python"/>
+ <img title="Go" height="32" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" alt="python"/>
  <img title="java" height="32" src="https://img.icons8.com/dusk/64/000000/java-coffee-cup-logo.png" alt="java"/>
  <img title="PostgreSQL" height="32" src="https://cdn.iconscout.com/icon/free/png-256/postgresql-8-1175119.png" alt="postgresql"/>
  <img title="MySql" height="32" src="https://img.icons8.com/metro/26/000000/mysql.png" alt="mysql"/>
